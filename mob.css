@@ -1,0 +1,173 @@
+@media screen and (max-width:480px){
+* {}
+.set-p{
+      padding: 0 30px;
+}
+.nav * {
+      margin: 0;
+      padding: 0;
+}
+
+.nav_links {
+      display: none;
+}
+
+.hero_top_section {
+      height: 800px;
+      flex-direction: column;
+      justify-content: center;
+}
+
+.hero_top_section .hero_image {
+    
+}
+
+.middle_section {
+   
+}
+
+.hero_bg {
+   
+}
+
+.hero_main_text {
+      order: 0;
+}
+
+#hero_user_name {
+      font-size: 3.2rem;
+}
+
+.hero_top_section .hero_image {
+      position: static;
+      order: 2;
+}
+
+.hero_service_text {
+      margin-left: 0;
+      order: 1;
+}
+
+.hero_bottom_section {
+      height: auto;
+      flex-wrap: wrap;
+      padding: .5rem;
+}
+
+.company_tag {
+      width: 150px;
+      height: 50px;
+      font-size: 1.2rem;
+      margin: .5rem;
+}
+
+.my_post_section {
+      top: 1950px;
+      height: 2800px;
+}
+
+.middle_section_content {
+      flex-direction: column;
+      height: auto;
+      justify-content: center;
+      align-items: flex-start;
+      color: white;
+      margin: 0 auto;
+}
+
+.md_section_text {
+      margin-top: 2rem;
+}
+
+.middle_section_post {
+      margin: 3rem 0;
+}
+
+.middle_section_post .post {
+      width: 160%;
+}
+
+.network_section {
+      width: auto;
+}
+
+.card_section {
+      flex-wrap: wrap;
+      justify-content: center;
+}
+
+.card_section .card {
+      margin: 1rem;
+      width: 400px !important;
+}
+
+.my_post_content .my_post {
+      width: 410px;
+}
+
+.slider_section_bg {
+      top: 4680px;
+      height: 1600px;
+}
+
+.slider_image {
+      float: none;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+#slider_author_image {
+      margin-left: 0;
+      margin-right: 0;
+}
+
+.slider_content {
+      margin-left: 0;
+      margin-top: .5rem;
+      justify-content: flex-start;
+      padding: 1rem 0;
+}
+
+.slider_content p {
+      padding-left: 0;
+      padding-top: .5rem;
+}
+
+.slider_content img {
+      left: 0rem;
+}
+
+.page_index_block {
+      margin-left: 0;
+}
+
+.hire_section {
+      flex-direction: column;
+      height: 600px;
+}
+
+.hire_image img {
+      border: 1px solid red;
+}
+
+.hire_section .hire_image_bg {
+      width: 260px;
+      height: 260px;
+      bottom: -1rem;
+      right: auto;
+      left: 50%;
+      transform: translateX(-50%);
+}
+
+.footer_section_bg {
+      top: 5908px;
+      height: 490px;
+}
+
+.footer_block {
+      min-width: 47%;
+      margin-bottom: .5rem;
+}
+}
