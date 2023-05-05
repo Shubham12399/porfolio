@@ -360,7 +360,7 @@ header {
 }
 
 .my_post_content .my_post {
-      width: calc(100% / 3 - 1rem);
+      width: calc(100% / 2 - 1rem);
       height: 290px;
       background: var(--secondary);
       display: flex;
