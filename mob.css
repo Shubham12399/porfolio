@@ -279,6 +279,9 @@
       .network_section {
             width: 376px !important;
       }
+      .hero_bg{
+            margin-left:0rem;
+      }
 }
 
 @media (max-width:362px) {
