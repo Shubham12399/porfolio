@@ -363,3 +363,13 @@
             padding: 3rem;
       }
 }
+@media screen and (max-width:1025px) {
+
+      .card_section {
+            gap: 1rem;
+            padding: 1rem 0;
+            padding-bottom: 4rem;
+            top: -13rem;
+            background-color: var(--secondary);
+      }
+}
