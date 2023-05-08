@@ -269,7 +269,7 @@
       }
 
       .middle_section_content .post {
-            min-width: 320px;
+            min-width: 343px;
       }
 
       .my_post_content .my_post {
@@ -281,6 +281,10 @@
       }
       .hero_bg{
             margin-left:0rem;
+      }
+      .card_section .card{
+            height: 254px;
+            width: 360px;
       }
 }
 
